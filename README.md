@@ -25,9 +25,9 @@ Welcome to my DevOps project portfolio! Below are some of the hands-on projects 
 
 ## 📬 Contact Me
 
-- 📧 Email: Abdulfaiyaz.shukor@gmaoil.com  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 📁 GitHub: [github.com/Faiyaz-Luck](https://github.com/Faiyaz-Luck)
+- 📧 Email: Abdulfaiyaz.shukor@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/abdul-faiyaz-a5453a18b/  
+- 📁 GitHub: https://github.com/Faiyaz-Luck)
 
 ---
 
